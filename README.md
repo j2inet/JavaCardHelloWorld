@@ -59,3 +59,10 @@ CDKkek: D3749ED4FF42FD58B39EEB562B017CD9
 
 I generally find that cleaner looking. For those that are curious, if you wanted to pass the the key information through the command line would use a command that looks like the following. 
 `gp.exe -install myProgram.cap --key-enc HexBytes:1111111111111111111111111111111111111111111111111111111111111111 --key-mac HexBytes:2222222222222222222222222222222222222222222222222222222222222222 --key` 
+
+
+# References
+
+* JavaCard Documentation - https://docs.oracle.com/en/java/javacard/3.2/index.html
+* ISO Specs - https://euicc-manual.osmocom.org/docs/diy/iso7816/
+* Organization, security and commands for interchange -  https://www.iso.org/standard/77180.html
